@@ -1,0 +1,9 @@
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\bin\Debug\age verification.exe.config
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age verification.csprojResolveAssemblyReference.cache
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age_verification.Form1.resources
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age_verification.Properties.Resources.resources
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age verification.csproj.GenerateResource.Cache
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\bin\Debug\age verification.exe
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\bin\Debug\age verification.pdb
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age verification.exe
+C:\Users\brosiusj\AppData\Local\Temporary Projects\age verification\obj\Debug\age verification.pdb
