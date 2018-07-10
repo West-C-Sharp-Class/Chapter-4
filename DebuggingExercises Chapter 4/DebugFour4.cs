@@ -24,10 +24,10 @@ class DebugFour4
       inputString = ReadLine();
       sales = Convert.ToDouble(inputString);
       commission = LOWPCT * sales;
-      if(sales <= LOWSALES)
+      if(sales  LOWSALES)
         commission += (sales - LOWSALES) * MEDPCT;
       else
-        if(sales == MEDSALES)
+        if(sales  MEDSALES)
            commission += BONUS1;
          else
            if(sales > HIGHSALES)
