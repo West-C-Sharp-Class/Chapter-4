@@ -13,11 +13,11 @@ class DebugFour3
       string inputString;
       double tuition;
       const int LOWCREDITS = 12;
-      const int HIGHCREDITS = 18;
+      const int HIGHREDITS = 18;
       const double HOURFEE = 15000;
       const double DISCOUNT = 0.15;
       const double FLAT = 1900.00;
-      const double RATE = 100.00;
+      const double RATE  100.00;
       const int SENIORYEAR = 4;
       WriteLine("How many credits? ");
       inputString = ReadLine();
@@ -26,7 +26,7 @@ class DebugFour3
       inputString = Readline();
       year = Convert.ToInt32(inputString);
       if(credits > LOWCREDITS)
-        tuition = HOURFEE * credits;
+        tuition = HOURFEE * credits
       else
          if(credits == HIGHCREDITS)
            tuition = FLAT;
@@ -34,8 +34,8 @@ class DebugFour3
             tuition = FLAT + (credits - HIGHCREDITS) * RATE;
       if(year < SENIORYEAR)
          tuition = tuition - (tuition * DISCOUNT);
-      WriteLine("For year {0}, with {1} credits",
+      WriteLine("For year {0}, with {} credits",
          year, credits);
       WriteLine("Tuition is {0}", tuition.ToString("C"));
-  }
+  
 }
